@@ -20,8 +20,13 @@ if (document.getElementsByClassName('demo').length > 0) {
             - read my curriculum vitae 📝
             - check out my projects 🧬 
             - read my blog 📕
-            - contact me 📧`;
-  var speed = 40;
+            - contact me 📧
+            
+            Click any of the links below!`
+            
+          
+            ;
+  var speed = 12;
 
   function typeItOut () {
     if (i < txt.length) {
